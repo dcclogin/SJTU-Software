@@ -20,3 +20,6 @@ Moreover, a brand new section of BAT, is the Q&A. It refers to Quora, but only i
 ## Overview
 
 Our software named BAT is a search engine for biobricks. It integrates functions of searching, scoring on parts and devices levels, and a Q&A community. With these functions combined together, users now can do evaluations both automatically and manually. 
+
+
+<img src="http://2017.igem.org/wiki/images/c/cf/SJTU-Software_QA_001.jpg"></img>
