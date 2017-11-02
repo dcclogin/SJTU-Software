@@ -4,7 +4,6 @@
 
 <img src="http://2017.igem.org/wiki/images/c/cf/Batlogo2.png"></img>
 
---
 
 ## Background
 
@@ -12,4 +11,12 @@ There are more than 20,000 biobricks in iGEM official standard database and the 
 
 Meanwhile, after our project iMAP in 2016, we have surveyed and noticed that the instant messaging function we developed in 2016 could hardly replace existing ones such as QQ/Wechat, LINE and WhatsApp, besides, not everyone got used to sending instant messages for academic communication. Instead, emails, or a platform like Quora was more suitable for knowledge and information exchange. So we developed a new function called Q&A, a Quora in synthetic biology field. 
 
---
+## Abstract
+
+Our project BAT, is improved on the base of 2015’s project—BASE, but we have surpassed it. First of all, BAT can not only score on ‘parts’ level, but more challenging, it can score on the ‘device’ level.
+
+Moreover, a brand new section of BAT, is the Q&A. It refers to Quora, but only in synthetic biology area. Users can put forward and answer questions about biobricks, synthetic biology and even works in their labs. Besides, they can also search questions by keywords or browse them by categories or tags. 
+
+## Overview
+
+Our software named BAT is a search engine for biobricks. It integrates functions of searching, scoring on parts and devices levels, and a Q&A community. With these functions combined together, users now can do evaluations both automatically and manually. 
