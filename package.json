@@ -1,1 +1,6 @@
-
+{
+  "name": "egg-example",
+  "scripts": {
+    "dev": "egg-bin dev"
+  }
+}
