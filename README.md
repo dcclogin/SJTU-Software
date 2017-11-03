@@ -27,6 +27,8 @@ Our software named BAT is a search engine for biobricks. It integrates functions
 
 ### Tech stacks
 
+<img src="https://raw.githubusercontent.com/eggjs/egg/master/docs/assets/egg-logo.png"></img>
+
 Different from the mainstream MySQL+PHP+Apache (What we used in 2015 and 2016), this year we mainly use JavaScript both in frontend (vue.js, jquery) and backend ([egg.js](https://github.com/eggjs/egg), an enterprise frameworks with Node.js & Koa).
 
-<img src="https://raw.githubusercontent.com/eggjs/egg/master/docs/assets/egg-logo.png"></img>
+For database, we use both MySQL (for BBK searching and scoring) and NoSQL (for storing and managing data of Q/A Community)
