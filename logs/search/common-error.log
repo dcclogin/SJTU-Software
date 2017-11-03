@@ -1,0 +1,1564 @@
+2017-04-28 00:04:54,647 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:04:59,658 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:00,387 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:48,140 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:48,748 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:49,389 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:49,494 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:50,142 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:05:50,308 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:10:53,640 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:10:56,637 ERROR 21949 [-/127.0.0.1/-/18ms GET /api/pfam/asdasd] nodejs.TypeError: Cannot read property 'length' of null
+    at Object.exports.show (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:16:24)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 21949
+hostname: matrix-0607
+
+2017-04-28 00:11:09,744 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:12:13,518 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:12:14,380 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:12:24,196 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:13:08,515 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:13:09,086 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:13:23,909 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:14:43,237 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:14:43,838 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:24:16,922 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:19,974 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:20,697 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:21,319 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:23,194 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:24,300 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:25,703 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:26,214 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:44,563 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:25:48,104 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:29:28,728 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:29:30,256 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:31:50,266 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:31:50,906 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:31:51,060 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:33:41,480 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:37:30,666 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:38:57,886 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:39:00,049 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:39:13,614 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:39:26,191 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:39:34,511 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:39:42,322 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:40:22,727 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:52:16,650 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:52:43,499 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:52:44,050 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:53:04,801 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:54:26,426 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:55:08,846 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:55:29,837 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:55:47,700 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:55:48,307 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:55:59,513 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:56:51,279 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 00:57:05,573 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:00:03,734 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:00:29,439 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:00:41,599 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:02:50,426 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:06:21,825 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:06:22,404 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:06:22,489 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:06:39,832 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:12:12,839 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:12:13,559 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:17:38,888 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:18:08,422 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:18:09,058 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:18:09,124 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:18:54,247 ERROR 28244 [-/127.0.0.1/-/22ms GET /api/interactions/PF00001] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '${domain}' in 'where clause'
+    at Query.Sequence._packetToError (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Parser.js:75:12)
+    at Protocol.write (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/Connection.js:103:28)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    --------------------
+    at Pool.query (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:29:7
+    at Pool.<anonymous> (/home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/rumia/Code/in-class/doint-search/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/rumia/Code/in-class/doint-search/node_modules/ali-rds/lib/operator.js:54:29)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at RDSClient.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    sql: select * from interaction where Domain1 = `${domain}` or Domain2 = `${domain}`
+code: 'ER_BAD_FIELD_ERROR'
+errno: 1054
+sqlState: '42S22'
+index: 0
+name: 'ER_BAD_FIELD_ERRORError'
+pid: 28244
+hostname: matrix-0607
+
+2017-04-28 01:21:18,885 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:28:43,182 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:30:57,853 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:31:00,258 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:31:46,823 ERROR 29038 [-/127.0.0.1/-/22ms GET /api/pfam/7tm_] nodejs.TypeError: Cannot read property 'length' of null
+    at Object.exports.show (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:29:30)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 29038
+hostname: matrix-0607
+
+2017-04-28 01:32:07,943 ERROR 29082 [-/127.0.0.1/-/18ms GET /api/pfam/7tm_] nodejs.TypeError: Cannot read property 'length' of null
+    at Object.exports.show (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:29:30)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 29082
+hostname: matrix-0607
+
+2017-04-28 01:32:11,657 ERROR 29082 [-/127.0.0.1/-/7ms GET /api/pfam/7tm_] nodejs.TypeError: Cannot read property 'length' of null
+    at Object.exports.show (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:29:30)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 29082
+hostname: matrix-0607
+
+2017-04-28 01:32:20,354 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:33:09,937 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:33:10,643 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:35:22,473 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:43:24,705 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:43:32,650 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:43:45,176 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:43:54,398 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:43:56,510 ERROR 21326 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 01:44:24,301 ERROR 30357 [-/127.0.0.1/-/14ms GET /api/go] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table 'DOINT.go' doesn't exist
+    at Query.Sequence._packetToError (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Query.ErrorPacket (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/sequences/Query.js:77:18)
+    at Protocol._parsePacket (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Parser.js:75:12)
+    at Protocol.write (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/Connection.js:103:28)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    --------------------
+    at Pool.query (/home/rumia/Code/in-class/doint-search/node_modules/mysql/lib/Pool.js:199:23)
+    at /home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:29:7
+    at Pool.<anonymous> (/home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:12:10)
+    at Pool.ret [as query] (/home/rumia/Code/in-class/doint-search/node_modules/pify/index.js:56:34)
+    at RDSClient.proto._query (/home/rumia/Code/in-class/doint-search/node_modules/ali-rds/lib/client.js:34:20)
+    at RDSClient.proto.query (/home/rumia/Code/in-class/doint-search/node_modules/ali-rds/lib/operator.js:54:29)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at RDSClient.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    sql: select * from go
+code: 'ER_NO_SUCH_TABLE'
+errno: 1146
+sqlState: '42S02'
+index: 0
+name: 'ER_NO_SUCH_TABLEError'
+pid: 30357
+hostname: matrix-0607
+
+2017-04-28 11:09:37,698 ERROR 21326 nodejs.ClusterClientNoResponseError: client no response in 1162055ms exceeding maxIdleTime 30000ms, maybe the connection is close on other side.
+    at Timeout.Leader._heartbeatTimer.setInterval [as _onTimeout] (/home/rumia/Code/in-class/doint-search/node_modules/cluster-client/lib/leader.js:71:23)
+    at ontimeout (timers.js:365:14)
+    at tryOnTimeout (timers.js:237:5)
+    at Timer.listOnTimeout (timers.js:207:5)
+name: 'ClusterClientNoResponseError'
+pid: 21326
+hostname: matrix-0607
+
+2017-04-28 12:23:51,822 ERROR 2253 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 2253
+hostname: matrix-0607
+
+2017-04-28 12:23:52,362 ERROR 2253 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 2253
+hostname: matrix-0607
+
+2017-04-28 14:39:35,213 ERROR 9362 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9362
+hostname: matrix-0607
+
+2017-04-28 14:39:57,094 ERROR 9362 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9362
+hostname: matrix-0607
+
+2017-04-28 14:39:58,170 ERROR 9362 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9362
+hostname: matrix-0607
+
+2017-04-28 14:39:59,442 ERROR 9362 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9362
+hostname: matrix-0607
+
+2017-05-02 10:18:43,047 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:12,630 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:13,263 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:13,372 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:13,950 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:14,144 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:19:15,613 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:22:03,366 ERROR 5973 nodejs.RequestError: connect ECONNREFUSED 127.0.0.1:80 (req "error"), GET http:///api/interactions/PF00001 -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"localhost:80:":1},"requests":{}})
+headers: {}
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1087:14)
+code: 'ECONNREFUSED'
+errno: 'ECONNREFUSED'
+syscall: 'connect'
+address: '127.0.0.1'
+port: 80
+name: 'RequestError'
+data: undefined
+path: '/api/interactions/PF00001'
+status: -1
+headers: {}
+res: { status: -1, statusCode: -1, headers: {}, size: 0, aborted: false, rt: 44, keepAliveSocket: false, data: undefined, requestUrls: [ 'http:///api/interactions/PF00001' ], timing: null, remoteAddress: '127.0.0.1', remotePort: '' }
+pid: 5973
+hostname: matrix-0607
+
+2017-05-02 10:23:21,056 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:31:14,718 ERROR 6329 [-/127.0.0.1/-/21ms GET /search?dm=PF00001] nodejs.TypeError: Cannot read property 'toString' of undefined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:11:81)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 6329
+hostname: matrix-0607
+
+2017-05-02 10:31:40,823 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:41:42,171 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:42:39,311 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:44:09,654 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 10:54:30,525 ERROR 4297 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 4297
+hostname: matrix-0607
+
+2017-05-02 11:08:18,502 ERROR 8565 nodejs.EACCESError: bind EACCES null:80 (uncaughtException throw 1 times on pid:8565)
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at cb (net.js:1324:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+code: 'EACCES'
+errno: 'EACCES'
+syscall: 'bind'
+address: null
+port: 80
+name: 'EACCESError'
+pid: 8565
+hostname: matrix-0607
+
+2017-05-02 11:08:18,505 ERROR 8571 nodejs.EACCESError: bind EACCES null:80 (uncaughtException throw 1 times on pid:8571)
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at cb (net.js:1324:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+code: 'EACCES'
+errno: 'EACCES'
+syscall: 'bind'
+address: null
+port: 80
+name: 'EACCESError'
+pid: 8571
+hostname: matrix-0607
+
+2017-05-02 11:08:18,510 ERROR 8572 nodejs.EACCESError: bind EACCES null:80 (uncaughtException throw 1 times on pid:8572)
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at cb (net.js:1324:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+code: 'EACCES'
+errno: 'EACCES'
+syscall: 'bind'
+address: null
+port: 80
+name: 'EACCESError'
+pid: 8572
+hostname: matrix-0607
+
+2017-05-02 11:08:18,511 ERROR 8578 nodejs.EACCESError: bind EACCES null:80 (uncaughtException throw 1 times on pid:8578)
+    at Object.exports._errnoException (util.js:1022:11)
+    at exports._exceptionWithHostPort (util.js:1045:20)
+    at cb (net.js:1324:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+code: 'EACCES'
+errno: 'EACCES'
+syscall: 'bind'
+address: null
+port: 80
+name: 'EACCESError'
+pid: 8578
+hostname: matrix-0607
+
+2017-05-02 11:18:46,707 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:18:50,245 ERROR 8943 [-/127.0.0.1/-/46ms GET /search?dm=PF00084] nodejs.ReferenceError: app is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 8943
+hostname: matrix-0607
+
+2017-05-02 11:19:01,288 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:01,297 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:01,842 ERROR 8943 [-/127.0.0.1/-/52ms GET /search?dm=PF00084] nodejs.ReferenceError: app is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 8943
+hostname: matrix-0607
+
+2017-05-02 11:19:09,343 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:09,654 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:13,660 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:14,081 ERROR 8943 [-/127.0.0.1/-/70ms GET /search?dm=PF00084] nodejs.ReferenceError: app is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 8943
+hostname: matrix-0607
+
+2017-05-02 11:19:35,845 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:35,850 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:36,945 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:36,947 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:37,081 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:19:37,148 ERROR 8639 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8639
+hostname: matrix-0607
+
+2017-05-02 11:20:33,639 ERROR 9598 [-/127.0.0.1/-/47ms GET /search?dm=PF00084] nodejs.ReferenceError: appInfo is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 9598
+hostname: matrix-0607
+
+2017-05-02 11:21:36,498 ERROR 9405 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9405
+hostname: matrix-0607
+
+2017-05-02 11:21:36,529 ERROR 9405 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9405
+hostname: matrix-0607
+
+2017-05-02 11:21:36,532 ERROR 9405 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9405
+hostname: matrix-0607
+
+2017-05-02 11:21:37,394 ERROR 9598 [-/127.0.0.1/-/33ms GET /search?dm=PF00084] nodejs.ReferenceError: appInfo is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 9598
+hostname: matrix-0607
+
+2017-05-02 11:21:39,642 ERROR 9598 [-/127.0.0.1/-/10ms GET /search?dm=PF00001] nodejs.ReferenceError: appInfo is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 9598
+hostname: matrix-0607
+
+2017-05-02 11:21:45,837 ERROR 9779 [-/127.0.0.1/-/67ms GET /search?dm=PF00001] nodejs.ReferenceError: config is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:14:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 9779
+hostname: matrix-0607
+
+2017-05-02 11:21:55,705 ERROR 9762 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9762
+hostname: matrix-0607
+
+2017-05-02 11:21:56,016 ERROR 9762 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9762
+hostname: matrix-0607
+
+2017-05-02 11:21:56,713 ERROR 9762 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9762
+hostname: matrix-0607
+
+2017-06-26 04:34:40,007 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:35:33,251 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:35:51,426 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:36:21,147 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:40:14,641 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:40:15,991 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:41:06,517 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:43:14,228 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+
+2017-06-26 04:54:15,422 ERROR 8116 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 8116
+hostname: matrix-0607
+

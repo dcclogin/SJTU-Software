@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Result for {{ dm }} | DOINT Search</title>
+    </head>
+    <body>
+    	<h1>Find {{ res_num }} interactions for {{ dm }}</h1>
+    	{% for item in content %}
+            <section>
+    		<li>{{ item.Domain1 }} <==> {{item.Domain2}}</li>
+            </section>
+    	{% endfor %}
+    </body>
+</html>

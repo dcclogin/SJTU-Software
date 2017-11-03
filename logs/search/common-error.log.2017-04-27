@@ -1,0 +1,835 @@
+2017-04-27 15:32:21,496 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:22,660 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:22,695 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:23,622 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:24,705 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:24,820 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:25,816 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:26,055 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:27,075 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:27,084 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:32:28,328 ERROR 9040 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 9040
+hostname: matrix-0607
+
+2017-04-27 15:33:09,357 ERROR 10241 [-/127.0.0.1/-/12ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:33:17,162 ERROR 10241 [-/127.0.0.1/-/3ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:33:23,225 ERROR 10241 [-/127.0.0.1/-/2ms GET /s?name=asdas] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:33:37,157 ERROR 10241 [-/127.0.0.1/-/5ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:33:51,110 ERROR 10241 [-/127.0.0.1/-/9ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:34:03,221 ERROR 10241 [-/127.0.0.1/-/4ms GET /s?name=ll] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:41)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10241
+hostname: matrix-0607
+
+2017-04-27 15:36:44,152 ERROR 10231 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10231
+hostname: matrix-0607
+
+2017-04-27 15:36:44,703 ERROR 10231 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10231
+hostname: matrix-0607
+
+2017-04-27 15:36:45,244 ERROR 10231 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10231
+hostname: matrix-0607
+
+2017-04-27 15:36:49,187 ERROR 10434 [-/127.0.0.1/-/10ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:27)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10434
+hostname: matrix-0607
+
+2017-04-27 15:37:04,329 ERROR 10490 [-/127.0.0.1/-/13ms GET /s?name=asdas] nodejs.TypeError: Cannot read property 'name' of undefined
+    at SearchController.index (/home/rumia/Code/in-class/doint-search/app/controller/search.js:13:27)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 10490
+hostname: matrix-0607
+
+2017-04-27 15:39:26,705 ERROR 10822 [-/127.0.0.1/-/9ms GET /s?name=ll] nodejs.ReferenceError: ctx is not defined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:12:2)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 10822
+hostname: matrix-0607
+
+2017-04-27 15:39:42,957 ERROR 10864 [-/127.0.0.1/-/19ms GET /s?name=ll] nodejs.TypeError: Cannot set property 'body' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:12:16)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 10864
+hostname: matrix-0607
+
+2017-04-27 16:06:30,404 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:06:31,036 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:06:34,107 ERROR 12895 [-/127.0.0.1/-/11ms GET /s?name=asdas] nodejs.TypeError: Cannot set property 'body' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:12:16)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 12895
+hostname: matrix-0607
+
+2017-04-27 16:07:16,020 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:07:22,637 ERROR 12941 [-/127.0.0.1/-/9ms GET /s?name=asdas] nodejs.TypeError: Cannot set property 'body' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:12:16)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 12941
+hostname: matrix-0607
+
+2017-04-27 16:08:52,784 ERROR 12941 [-/127.0.0.1/-/4ms GET /s] nodejs.TypeError: Cannot set property 'body' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:12:16)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 12941
+hostname: matrix-0607
+
+2017-04-27 16:09:28,779 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:09:30,530 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:09:31,079 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:09:36,723 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:09:37,483 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:09:40,110 ERROR 13553 [-/127.0.0.1/-/15ms GET /s] nodejs.TypeError: Cannot read property 'name' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:10:33)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 13553
+hostname: matrix-0607
+
+2017-04-27 16:09:46,650 ERROR 13553 [-/127.0.0.1/-/3ms GET /s?name=asdas] nodejs.TypeError: Cannot read property 'name' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:10:33)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 13553
+hostname: matrix-0607
+
+2017-04-27 16:09:50,668 ERROR 13553 [-/127.0.0.1/-/1ms GET /s?name=asdas] nodejs.TypeError: Cannot read property 'name' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:10:33)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 13553
+hostname: matrix-0607
+
+2017-04-27 16:13:28,555 ERROR 13936 [-/127.0.0.1/-/9ms GET /user/123/xiaoming] nodejs.ReferenceError: ctx is not defined
+    at UserController.info (/home/rumia/Code/in-class/doint-search/app/controller/user.js:15:29)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 13936
+hostname: matrix-0607
+
+2017-04-27 16:14:05,452 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:14:06,109 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:14:34,058 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:14:49,075 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:14:49,746 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:14:49,764 ERROR 10812 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 10812
+hostname: matrix-0607
+
+2017-04-27 16:15:19,454 ERROR 14300 [-/127.0.0.1/-/13ms GET /search?name=egg] nodejs.TypeError: Cannot set property 'body' of undefined
+    at Object.module.exports (/home/rumia/Code/in-class/doint-search/app/controller/search.js:10:16)
+    at next (native)
+    at Object.dispatch (/home/rumia/Code/in-class/doint-search/node_modules/koa-router/lib/router.js:335:14)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+
+pid: 14300
+hostname: matrix-0607
+
+2017-04-27 16:17:15,357 ERROR 14346 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14346
+hostname: matrix-0607
+
+2017-04-27 16:17:49,077 ERROR 14346 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14346
+hostname: matrix-0607
+
+2017-04-27 16:25:33,546 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:25:34,492 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:26:07,032 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:26:09,454 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:26:59,104 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:28:05,464 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:28:06,052 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 16:28:06,721 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:31:35,765 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:31:36,690 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:31:37,577 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:38:11,545 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:38:12,145 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:41:08,258 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:42:27,659 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:42:39,467 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:47:36,464 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 21:48:14,222 ERROR 18950 [-/127.0.0.1/-/16ms GET /api/pfam] nodejs.ReferenceError: ctx is not defined
+    at Object.exports.index (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:9:2)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/in-class/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:50:10)
+
+pid: 18950
+hostname: matrix-0607
+
+2017-04-27 22:06:46,703 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:11:31,433 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:11:31,987 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:11:37,160 ERROR 19427 [-/127.0.0.1/-/16ms GET /api/pfam/7tm_1] nodejs.SyntaxError: Unexpected token o in JSON at position 1
+    at Object.parse (native)
+    at Object.exports.show (/home/rumia/Code/in-class/doint-search/app/controller/pfam.js:16:18)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/in-class/doint-search/node_modules/co/index.js:65:19)
+    at process._tickCallback (internal/process/next_tick.js:103:7)
+
+pid: 19427
+hostname: matrix-0607
+
+2017-04-27 22:16:28,007 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:16:28,588 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:16:29,298 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+
+2017-04-27 22:16:29,325 ERROR 14680 nodejs.ECONNRESETError: read ECONNRESET
+    at exports._errnoException (util.js:1022:11)
+    at TCP.onread (net.js:569:26)
+code: 'ECONNRESET'
+errno: 'ECONNRESET'
+syscall: 'read'
+name: 'ECONNRESETError'
+pid: 14680
+hostname: matrix-0607
+

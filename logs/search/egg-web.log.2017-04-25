@@ -1,0 +1,206 @@
+2017-04-21 14:25:56,274 INFO 29018 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 14:25:56,307 INFO 29018 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 14:25:56,308 INFO 29018 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 14:25:56,314 INFO 29018 [egg-mysql] connecting rumia@127.0.0.1:3306/DOINT
+2017-04-21 14:25:56,370 INFO 29018 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 14:25:56,373 INFO 29018 [egg-security] use csrf middleware
+2017-04-21 14:25:56,374 INFO 29018 [egg-security] use methodnoallow middleware
+2017-04-21 14:25:56,374 INFO 29018 [egg-security] use noopen middleware
+2017-04-21 14:25:56,375 INFO 29018 [egg-security] use nosniff middleware
+2017-04-21 14:25:56,376 INFO 29018 [egg-security] use xssProtection middleware
+2017-04-21 14:25:56,376 INFO 29018 [egg-security] use xframe middleware
+2017-04-21 14:25:56,376 INFO 29018 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 14:25:56,400 INFO 29018 [ClusterClient:Watcher] gives up seizing port 34337, and serves as follower client.
+2017-04-21 14:25:56,407 INFO 29018 [egg-watcher:app] watcher start success
+2017-04-21 14:25:56,415 INFO 29018 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 14:26:59,740 INFO 29087 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 14:26:59,775 INFO 29087 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 14:26:59,776 INFO 29087 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 14:26:59,782 INFO 29087 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 14:26:59,845 INFO 29087 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 14:26:59,847 INFO 29087 [egg-security] use csrf middleware
+2017-04-21 14:26:59,848 INFO 29087 [egg-security] use methodnoallow middleware
+2017-04-21 14:26:59,848 INFO 29087 [egg-security] use noopen middleware
+2017-04-21 14:26:59,848 INFO 29087 [egg-security] use nosniff middleware
+2017-04-21 14:26:59,849 INFO 29087 [egg-security] use xssProtection middleware
+2017-04-21 14:26:59,850 INFO 29087 [egg-security] use xframe middleware
+2017-04-21 14:26:59,850 INFO 29087 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 14:26:59,874 INFO 29087 [ClusterClient:Watcher] gives up seizing port 37383, and serves as follower client.
+2017-04-21 14:26:59,882 INFO 29087 [egg-watcher:app] watcher start success
+2017-04-21 14:26:59,889 INFO 29087 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 14:26:59,891 INFO 29087 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 14:26:59 GMT+0800 (CST)
+2017-04-21 15:15:09,988 INFO 30186 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 15:15:10,022 INFO 30186 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 15:15:10,023 INFO 30186 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 15:15:10,028 INFO 30186 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 15:15:10,084 INFO 30186 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 15:15:10,086 INFO 30186 [egg-security] use csrf middleware
+2017-04-21 15:15:10,086 INFO 30186 [egg-security] use methodnoallow middleware
+2017-04-21 15:15:10,087 INFO 30186 [egg-security] use noopen middleware
+2017-04-21 15:15:10,087 INFO 30186 [egg-security] use nosniff middleware
+2017-04-21 15:15:10,087 INFO 30186 [egg-security] use xssProtection middleware
+2017-04-21 15:15:10,087 INFO 30186 [egg-security] use xframe middleware
+2017-04-21 15:15:10,087 INFO 30186 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 15:15:10,111 INFO 30186 [ClusterClient:Watcher] gives up seizing port 33567, and serves as follower client.
+2017-04-21 15:15:10,117 INFO 30186 [egg-watcher:app] watcher start success
+2017-04-21 15:15:10,122 INFO 30186 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 15:15:10 GMT+0800 (CST)
+2017-04-21 15:15:10,124 INFO 30186 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 15:16:37,732 INFO 30269 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 15:16:37,775 INFO 30269 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 15:16:37,775 INFO 30269 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 15:16:37,783 INFO 30269 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 15:16:37,846 INFO 30269 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 15:16:37,848 INFO 30269 [egg-security] use csrf middleware
+2017-04-21 15:16:37,848 INFO 30269 [egg-security] use methodnoallow middleware
+2017-04-21 15:16:37,848 INFO 30269 [egg-security] use noopen middleware
+2017-04-21 15:16:37,849 INFO 30269 [egg-security] use nosniff middleware
+2017-04-21 15:16:37,849 INFO 30269 [egg-security] use xssProtection middleware
+2017-04-21 15:16:37,849 INFO 30269 [egg-security] use xframe middleware
+2017-04-21 15:16:37,849 INFO 30269 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 15:16:37,874 INFO 30269 [ClusterClient:Watcher] gives up seizing port 43669, and serves as follower client.
+2017-04-21 15:16:37,881 INFO 30269 [egg-watcher:app] watcher start success
+2017-04-21 15:16:37,886 INFO 30269 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 15:16:37 GMT+0800 (CST)
+2017-04-21 15:16:37,888 INFO 30269 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 15:16:41,090 INFO 30269 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/fansy/doint-search/app/view"]
+2017-04-21 15:35:24,967 INFO 30655 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 15:35:25,005 INFO 30655 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 15:35:25,005 INFO 30655 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 15:35:25,012 INFO 30655 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 15:35:25,076 INFO 30655 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 15:35:25,078 INFO 30655 [egg-security] use csrf middleware
+2017-04-21 15:35:25,078 INFO 30655 [egg-security] use methodnoallow middleware
+2017-04-21 15:35:25,079 INFO 30655 [egg-security] use noopen middleware
+2017-04-21 15:35:25,079 INFO 30655 [egg-security] use nosniff middleware
+2017-04-21 15:35:25,079 INFO 30655 [egg-security] use xssProtection middleware
+2017-04-21 15:35:25,079 INFO 30655 [egg-security] use xframe middleware
+2017-04-21 15:35:25,080 INFO 30655 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 15:35:25,106 INFO 30655 [ClusterClient:Watcher] gives up seizing port 43669, and serves as follower client.
+2017-04-21 15:35:25,115 INFO 30655 [egg-watcher:app] watcher start success
+2017-04-21 15:35:25,121 INFO 30655 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 15:35:25,124 INFO 30655 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 15:35:25 GMT+0800 (CST)
+2017-04-21 15:35:25,487 INFO 30666 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 15:35:25,524 INFO 30666 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 15:35:25,525 INFO 30666 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 15:35:25,531 INFO 30666 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 15:35:25,592 INFO 30666 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 15:35:25,593 INFO 30666 [egg-security] use csrf middleware
+2017-04-21 15:35:25,594 INFO 30666 [egg-security] use methodnoallow middleware
+2017-04-21 15:35:25,594 INFO 30666 [egg-security] use noopen middleware
+2017-04-21 15:35:25,594 INFO 30666 [egg-security] use nosniff middleware
+2017-04-21 15:35:25,595 INFO 30666 [egg-security] use xssProtection middleware
+2017-04-21 15:35:25,595 INFO 30666 [egg-security] use xframe middleware
+2017-04-21 15:35:25,595 INFO 30666 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 15:35:25,625 INFO 30666 [ClusterClient:Watcher] gives up seizing port 43669, and serves as follower client.
+2017-04-21 15:35:25,632 INFO 30666 [egg-watcher:app] watcher start success
+2017-04-21 15:35:25,638 INFO 30666 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 15:35:25,640 INFO 30666 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 15:35:25 GMT+0800 (CST)
+2017-04-21 15:35:25,996 INFO 30676 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 15:35:26,039 INFO 30676 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 15:35:26,039 INFO 30676 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 15:35:26,045 INFO 30676 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 15:35:26,108 INFO 30676 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 15:35:26,109 INFO 30676 [egg-security] use csrf middleware
+2017-04-21 15:35:26,110 INFO 30676 [egg-security] use methodnoallow middleware
+2017-04-21 15:35:26,110 INFO 30676 [egg-security] use noopen middleware
+2017-04-21 15:35:26,110 INFO 30676 [egg-security] use nosniff middleware
+2017-04-21 15:35:26,111 INFO 30676 [egg-security] use xssProtection middleware
+2017-04-21 15:35:26,111 INFO 30676 [egg-security] use xframe middleware
+2017-04-21 15:35:26,111 INFO 30676 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 15:35:26,138 INFO 30676 [ClusterClient:Watcher] gives up seizing port 43669, and serves as follower client.
+2017-04-21 15:35:26,143 INFO 30676 [egg-watcher:app] watcher start success
+2017-04-21 15:35:26,149 INFO 30676 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 15:35:26,151 INFO 30676 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 15:35:26 GMT+0800 (CST)
+2017-04-21 15:35:35,463 INFO 30676 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/fansy/doint-search/app/view"]
+2017-04-21 16:56:13,800 INFO 2806 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 16:56:13,838 INFO 2806 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 16:56:13,838 INFO 2806 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 16:56:13,846 INFO 2806 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 16:56:13,919 INFO 2806 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 16:56:13,921 INFO 2806 [egg-security] use csrf middleware
+2017-04-21 16:56:13,921 INFO 2806 [egg-security] use methodnoallow middleware
+2017-04-21 16:56:13,921 INFO 2806 [egg-security] use noopen middleware
+2017-04-21 16:56:13,922 INFO 2806 [egg-security] use nosniff middleware
+2017-04-21 16:56:13,922 INFO 2806 [egg-security] use xssProtection middleware
+2017-04-21 16:56:13,923 INFO 2806 [egg-security] use xframe middleware
+2017-04-21 16:56:13,923 INFO 2806 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 16:56:13,947 INFO 2806 [ClusterClient:Watcher] gives up seizing port 36869, and serves as follower client.
+2017-04-21 16:56:13,955 INFO 2806 [egg-watcher:app] watcher start success
+2017-04-21 16:56:13,960 INFO 2806 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 16:56:13,962 INFO 2806 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 16:56:13 GMT+0800 (CST)
+2017-04-21 16:56:27,569 INFO 2806 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/fansy/doint-search/app/view"]
+2017-04-21 17:44:34,589 INFO 4553 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-21 17:44:34,625 INFO 4553 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-21 17:44:34,625 INFO 4553 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-21 17:44:34,631 INFO 4553 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-21 17:44:34,688 INFO 4553 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-21 17:44:34,690 INFO 4553 [egg-security] use csrf middleware
+2017-04-21 17:44:34,690 INFO 4553 [egg-security] use methodnoallow middleware
+2017-04-21 17:44:34,691 INFO 4553 [egg-security] use noopen middleware
+2017-04-21 17:44:34,691 INFO 4553 [egg-security] use nosniff middleware
+2017-04-21 17:44:34,691 INFO 4553 [egg-security] use xssProtection middleware
+2017-04-21 17:44:34,691 INFO 4553 [egg-security] use xframe middleware
+2017-04-21 17:44:34,691 INFO 4553 [egg-security] compose 6 middlewares into one security middleware
+2017-04-21 17:44:34,715 INFO 4553 [ClusterClient:Watcher] gives up seizing port 42433, and serves as follower client.
+2017-04-21 17:44:34,723 INFO 4553 [egg-watcher:app] watcher start success
+2017-04-21 17:44:34,728 INFO 4553 [egg-mysql] instance[0] status OK, rds currentTime: Fri Apr 21 2017 17:44:34 GMT+0800 (CST)
+2017-04-21 17:44:34,730 INFO 4553 [Follower:Watcher] register to channel: Watcher success
+2017-04-21 17:44:38,235 INFO 4553 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/fansy/doint-search/app/view"]
+2017-04-23 03:01:50,825 INFO 4710 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/fansy/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-23 03:01:50,864 INFO 4710 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-23 03:01:50,864 INFO 4710 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/fansy/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-23 03:01:50,872 INFO 4710 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-23 03:01:50,947 INFO 4710 [egg-static] starting static serve /public/ -> /home/rumia/Code/fansy/doint-search/app/public
+2017-04-23 03:01:50,949 INFO 4710 [egg-security] use csrf middleware
+2017-04-23 03:01:50,950 INFO 4710 [egg-security] use methodnoallow middleware
+2017-04-23 03:01:50,950 INFO 4710 [egg-security] use noopen middleware
+2017-04-23 03:01:50,951 INFO 4710 [egg-security] use nosniff middleware
+2017-04-23 03:01:50,951 INFO 4710 [egg-security] use xssProtection middleware
+2017-04-23 03:01:50,952 INFO 4710 [egg-security] use xframe middleware
+2017-04-23 03:01:50,952 INFO 4710 [egg-security] compose 6 middlewares into one security middleware
+2017-04-23 03:01:50,976 INFO 4710 [ClusterClient:Watcher] gives up seizing port 41657, and serves as follower client.
+2017-04-23 03:01:50,983 INFO 4710 [egg-watcher:app] watcher start success
+2017-04-23 03:01:50,988 INFO 4710 [egg-mysql] instance[0] status OK, rds currentTime: Sun Apr 23 2017 03:01:50 GMT+0800 (CST)
+2017-04-23 03:01:50,990 INFO 4710 [Follower:Watcher] register to channel: Watcher success
+2017-04-23 03:01:58,712 INFO 4710 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/fansy/doint-search/app/view"]
+2017-04-23 13:56:52,635 INFO 2509 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-23 13:56:52,675 INFO 2509 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-23 13:56:52,675 INFO 2509 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-23 13:56:52,683 INFO 2509 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-23 13:56:52,760 INFO 2509 [egg-static] starting static serve /public/ -> /home/rumia/Code/in-class/doint-search/app/public
+2017-04-23 13:56:52,762 INFO 2509 [egg-security] use csrf middleware
+2017-04-23 13:56:52,762 INFO 2509 [egg-security] use methodnoallow middleware
+2017-04-23 13:56:52,763 INFO 2509 [egg-security] use noopen middleware
+2017-04-23 13:56:52,763 INFO 2509 [egg-security] use nosniff middleware
+2017-04-23 13:56:52,764 INFO 2509 [egg-security] use xssProtection middleware
+2017-04-23 13:56:52,764 INFO 2509 [egg-security] use xframe middleware
+2017-04-23 13:56:52,764 INFO 2509 [egg-security] compose 6 middlewares into one security middleware
+2017-04-23 13:56:52,789 INFO 2509 [ClusterClient:Watcher] gives up seizing port 46439, and serves as follower client.
+2017-04-23 13:56:52,797 INFO 2509 [egg-watcher:app] watcher start success
+2017-04-23 13:56:52,802 INFO 2509 [egg-mysql] instance[0] status OK, rds currentTime: Sun Apr 23 2017 13:56:52 GMT+0800 (CST)
+2017-04-23 13:56:52,804 INFO 2509 [Follower:Watcher] register to channel: Watcher success
+2017-04-23 13:57:02,466 INFO 2509 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/in-class/doint-search/app/view"]
+2017-04-25 10:26:15,892 INFO 18995 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"application"}
+2017-04-25 10:26:15,932 INFO 18995 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
+2017-04-25 10:26:15,933 INFO 18995 [egg-schedule]: register schedule egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-25 10:26:15,941 INFO 18995 [egg-mysql] connecting root@127.0.0.1:3306/DOINT
+2017-04-25 10:26:16,020 INFO 18995 [egg-static] starting static serve /public/ -> /home/rumia/Code/in-class/doint-search/app/public
+2017-04-25 10:26:16,022 INFO 18995 [egg-security] use csrf middleware
+2017-04-25 10:26:16,022 INFO 18995 [egg-security] use methodnoallow middleware
+2017-04-25 10:26:16,023 INFO 18995 [egg-security] use noopen middleware
+2017-04-25 10:26:16,023 INFO 18995 [egg-security] use nosniff middleware
+2017-04-25 10:26:16,024 INFO 18995 [egg-security] use xssProtection middleware
+2017-04-25 10:26:16,024 INFO 18995 [egg-security] use xframe middleware
+2017-04-25 10:26:16,024 INFO 18995 [egg-security] compose 6 middlewares into one security middleware
+2017-04-25 10:26:16,047 INFO 18995 [ClusterClient:Watcher] gives up seizing port 34855, and serves as follower client.
+2017-04-25 10:26:16,054 INFO 18995 [egg-watcher:app] watcher start success
+2017-04-25 10:26:16,059 INFO 18995 [egg-mysql] instance[0] status OK, rds currentTime: Tue Apr 25 2017 10:26:16 GMT+0800 (CST)
+2017-04-25 10:26:16,060 INFO 18995 [Follower:Watcher] register to channel: Watcher success
+2017-04-25 10:26:23,295 INFO 18995 [egg-view-nunjucks] loading templates from ["/home/rumia/Code/in-class/doint-search/app/view"]
+2017-04-26 00:00:00,007 INFO 18995 [egg-schedule]: get message egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-26 00:00:00,012 DEBUG 18995 rename from /home/rumia/Code/in-class/doint-search/logs/doint-search/common-error.log to /home/rumia/Code/in-class/doint-search/logs/doint-search/common-error.log.2017-04-25
+2017-04-26 00:00:00,012 DEBUG 18995 rename from /home/rumia/Code/in-class/doint-search/logs/doint-search/doint-search-web.log to /home/rumia/Code/in-class/doint-search/logs/doint-search/doint-search-web.log.2017-04-25
+2017-04-26 00:00:00,013 DEBUG 18995 rename from /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-web.log to /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-web.log.2017-04-25
+2017-04-26 00:00:00,013 DEBUG 18995 rename from /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-agent.log to /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-agent.log.2017-04-25
+2017-04-26 00:00:00,013 INFO 18995 [egg-logrotator] broadcast log-reload
+2017-04-26 00:00:00,013 INFO 18995 [egg-logrotator] rotate files success by DayRotator, files ["/home/rumia/Code/in-class/doint-search/logs/doint-search/common-error.log -> /home/rumia/Code/in-class/doint-search/logs/doint-search/common-error.log.2017-04-25","/home/rumia/Code/in-class/doint-search/logs/doint-search/doint-search-web.log -> /home/rumia/Code/in-class/doint-search/logs/doint-search/doint-search-web.log.2017-04-25","/home/rumia/Code/in-class/doint-search/logs/doint-search/egg-web.log -> /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-web.log.2017-04-25","/home/rumia/Code/in-class/doint-search/logs/doint-search/egg-agent.log -> /home/rumia/Code/in-class/doint-search/logs/doint-search/egg-agent.log.2017-04-25"]
+2017-04-26 00:00:00,014 INFO 18995 [egg-schedule] egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js excute succeed, used 6ms

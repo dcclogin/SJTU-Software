@@ -1,0 +1,46 @@
+2017-04-21 14:25:56,413 ERROR 29018 [-/127.0.0.1/-/0ms GET /] nodejs.ER_ACCESS_DENIED_ERRORError: ER_ACCESS_DENIED_ERROR: Access denied for user 'rumia'@'localhost' (using password: YES)
+    at Handshake.Sequence._packetToError (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/sequences/Sequence.js:52:14)
+    at Handshake.ErrorPacket (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/sequences/Handshake.js:103:18)
+    at Protocol._parsePacket (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/Protocol.js:280:23)
+    at Parser.write (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/Parser.js:75:12)
+    at Protocol.write (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/Protocol.js:39:16)
+    at Socket.<anonymous> (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/Connection.js:103:28)
+    at emitOne (events.js:96:13)
+    at Socket.emit (events.js:188:7)
+    at readableAddChunk (_stream_readable.js:176:18)
+    at Socket.Readable.push (_stream_readable.js:134:10)
+    --------------------
+    at Protocol._enqueue (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/Protocol.js:141:48)
+    at Protocol.handshake (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/protocol/Protocol.js:52:41)
+    at PoolConnection.connect (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/Connection.js:130:18)
+    at Pool.getConnection (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/Pool.js:48:16)
+    at /home/rumia/Code/fansy/doint-search/node_modules/pify/index.js:29:7
+    at Pool.<anonymous> (/home/rumia/Code/fansy/doint-search/node_modules/pify/index.js:12:10)
+    at Pool.ret [as getConnection] (/home/rumia/Code/fansy/doint-search/node_modules/pify/index.js:56:34)
+    at Pool.query (/home/rumia/Code/fansy/doint-search/node_modules/mysql/lib/Pool.js:202:8)
+    at /home/rumia/Code/fansy/doint-search/node_modules/pify/index.js:29:7
+    at Pool.<anonymous> (/home/rumia/Code/fansy/doint-search/node_modules/pify/index.js:12:10)
+    sql: select now() as currentTime;
+code: 'ER_ACCESS_DENIED_ERROR'
+errno: 1045
+sqlState: '28000'
+fatal: true
+name: 'ER_ACCESS_DENIED_ERRORError'
+pid: 29018
+hostname: matrix-0607
+
+2017-04-21 15:15:17,142 ERROR 30186 [-/127.0.0.1/-/11ms GET /] nodejs.ReferenceError: ctx is not defined
+    at HomeController.index (/home/rumia/Code/fansy/doint-search/app/controller/home.js:12:26)
+    at next (native)
+    at onFulfilled (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:65:19)
+    at /home/rumia/Code/fansy/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:50:10)
+    at Object.toPromise (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:118:63)
+    at next (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:99:29)
+    at onFulfilled (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:69:7)
+    at /home/rumia/Code/fansy/doint-search/node_modules/co/index.js:54:5
+    at Object.co (/home/rumia/Code/fansy/doint-search/node_modules/co/index.js:50:10)
+
+pid: 30186
+hostname: matrix-0607
+

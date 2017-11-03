@@ -1,0 +1,1255 @@
+2017-04-26 00:00:00,021 INFO 18985 [egg-logrotator] agent logger reload: got log-reload message
+2017-04-26 08:29:24,433 INFO 3325 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-26 08:29:24,451 INFO 3325 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-26 08:29:24,512 INFO 3325 [ClusterClient:Watcher] has seized port 33837, and serves as leader client.
+2017-04-26 08:29:24,514 INFO 3325 [egg-watcher:agent] watcher start success
+2017-04-26 08:29:25,062 INFO 3325 [Leader:Watcher] socket connected, port: 51396
+2017-04-26 08:31:19,624 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:19,627 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:20,002 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:20,006 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:20,363 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:20,364 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:22,956 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:22,957 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:23,239 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:23,240 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:23,470 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:31:23,470 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,331 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,331 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,610 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,612 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,853 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:08,855 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,089 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,094 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,504 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,505 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,755 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:09,756 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:18,942 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:18,943 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:19,214 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:19,216 INFO 3325 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:32:50,545 INFO 3606 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-26 08:32:50,561 INFO 3606 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-26 08:32:50,611 INFO 3606 [ClusterClient:Watcher] has seized port 39719, and serves as leader client.
+2017-04-26 08:32:50,613 INFO 3606 [egg-watcher:agent] watcher start success
+2017-04-26 08:32:51,173 INFO 3606 [Leader:Watcher] socket connected, port: 36044
+2017-04-26 08:33:33,500 INFO 3606 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:33:33,503 INFO 3606 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:33:33,801 INFO 3606 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:33:33,803 INFO 3606 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-26 08:34:16,146 INFO 3850 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-26 08:34:16,162 INFO 3850 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-26 08:34:16,216 INFO 3850 [ClusterClient:Watcher] has seized port 39163, and serves as leader client.
+2017-04-26 08:34:16,218 INFO 3850 [egg-watcher:agent] watcher start success
+2017-04-26 08:34:16,774 INFO 3850 [Leader:Watcher] socket connected, port: 40698
+2017-04-27 13:50:10,243 INFO 2889 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 13:50:10,260 INFO 2889 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 13:50:10,315 INFO 2889 [ClusterClient:Watcher] has seized port 42741, and serves as leader client.
+2017-04-27 13:50:10,317 INFO 2889 [egg-watcher:agent] watcher start success
+2017-04-27 13:50:10,866 INFO 2889 [Leader:Watcher] socket connected, port: 38788
+2017-04-27 15:11:09,141 INFO 5510 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:11:09,167 INFO 5510 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:11:09,244 INFO 5510 [ClusterClient:Watcher] has seized port 36745, and serves as leader client.
+2017-04-27 15:11:09,247 INFO 5510 [egg-watcher:agent] watcher start success
+2017-04-27 15:11:09,843 INFO 5510 [Leader:Watcher] socket connected, port: 38928
+2017-04-27 15:14:23,323 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:14:23,327 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:14:23,529 WARN 5510 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:14:24,182 INFO 5510 [Leader:Watcher] socket connected, port: 38988
+2017-04-27 15:15:41,142 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:15:41,345 WARN 5510 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:15:41,866 INFO 5510 [Leader:Watcher] socket connected, port: 38994
+2017-04-27 15:15:42,960 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:15:42,961 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:15:43,163 WARN 5510 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:15:43,663 INFO 5510 [Leader:Watcher] socket connected, port: 39002
+2017-04-27 15:16:10,069 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:16:10,072 INFO 5510 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:16:10,273 WARN 5510 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:16:10,810 INFO 5510 [Leader:Watcher] socket connected, port: 39008
+2017-04-27 15:16:26,065 INFO 5753 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:16:26,095 INFO 5753 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:16:26,183 INFO 5753 [ClusterClient:Watcher] has seized port 39597, and serves as leader client.
+2017-04-27 15:16:26,187 INFO 5753 [egg-watcher:agent] watcher start success
+2017-04-27 15:16:27,092 INFO 5753 [Leader:Watcher] socket connected, port: 46668
+2017-04-27 15:17:29,230 INFO 5907 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:17:29,245 INFO 5907 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:17:29,292 INFO 5907 [ClusterClient:Watcher] has seized port 42293, and serves as leader client.
+2017-04-27 15:17:29,294 INFO 5907 [egg-watcher:agent] watcher start success
+2017-04-27 15:17:29,791 INFO 5907 [Leader:Watcher] socket connected, port: 34198
+2017-04-27 15:18:56,047 INFO 6003 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:18:56,063 INFO 6003 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:18:56,109 INFO 6003 [ClusterClient:Watcher] has seized port 35833, and serves as leader client.
+2017-04-27 15:18:56,111 INFO 6003 [egg-watcher:agent] watcher start success
+2017-04-27 15:18:56,628 INFO 6003 [Leader:Watcher] socket connected, port: 43148
+2017-04-27 15:24:35,254 INFO 9040 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:24:35,270 INFO 9040 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:24:35,319 INFO 9040 [ClusterClient:Watcher] has seized port 40739, and serves as leader client.
+2017-04-27 15:24:35,321 INFO 9040 [egg-watcher:agent] watcher start success
+2017-04-27 15:24:35,904 INFO 9040 [Leader:Watcher] socket connected, port: 60274
+2017-04-27 15:25:21,800 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:25:21,805 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:25:22,007 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:25:22,115 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:25:22,116 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:25:22,317 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:25:22,856 INFO 9040 [Leader:Watcher] socket connected, port: 60324
+2017-04-27 15:25:23,648 INFO 9040 [Leader:Watcher] socket connected, port: 60330
+2017-04-27 15:28:07,918 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:07,919 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:08,119 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:28:08,951 INFO 9040 [Leader:Watcher] socket connected, port: 60440
+2017-04-27 15:28:28,272 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:28,273 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:28,475 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/home.js change
+2017-04-27 15:28:29,196 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:29,197 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:29,285 INFO 9040 [Leader:Watcher] socket connected, port: 60450
+2017-04-27 15:28:29,399 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/home.js change
+2017-04-27 15:28:30,230 INFO 9040 [Leader:Watcher] socket connected, port: 60456
+2017-04-27 15:28:47,955 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:28:48,156 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:28:48,971 INFO 9040 [Leader:Watcher] socket connected, port: 60462
+2017-04-27 15:31:09,035 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:09,036 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:09,236 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:31:10,032 INFO 9040 [Leader:Watcher] socket connected, port: 60488
+2017-04-27 15:31:21,633 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:21,634 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:21,835 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:31:21,911 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:22,112 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:31:22,213 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:22,414 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:31:42,445 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:42,446 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:42,646 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:42,749 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:42,749 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:42,951 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:43,423 INFO 9040 [Leader:Watcher] socket connected, port: 60494
+2017-04-27 15:31:44,153 INFO 9040 [Leader:Watcher] socket connected, port: 60500
+2017-04-27 15:31:47,054 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:47,055 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:47,255 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:47,351 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:47,552 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:47,632 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:47,832 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:48,161 INFO 9040 [Leader:Watcher] socket connected, port: 60506
+2017-04-27 15:31:49,070 INFO 9040 [Leader:Watcher] socket connected, port: 60512
+2017-04-27 15:31:56,016 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:56,018 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:56,223 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:56,351 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:31:56,552 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:31:57,400 INFO 9040 [Leader:Watcher] socket connected, port: 60518
+2017-04-27 15:31:58,442 INFO 9040 [Leader:Watcher] socket connected, port: 60524
+2017-04-27 15:32:02,042 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:02,043 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:02,244 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:02,305 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:02,306 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:02,508 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:03,244 INFO 9040 [Leader:Watcher] socket connected, port: 60530
+2017-04-27 15:32:04,159 INFO 9040 [Leader:Watcher] socket connected, port: 60536
+2017-04-27 15:32:19,628 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:19,630 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:19,833 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:19,984 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:19,985 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:20,185 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:20,585 INFO 9040 [Leader:Watcher] socket connected, port: 60542
+2017-04-27 15:32:20,618 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:20,818 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:20,934 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:21,135 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:21,150 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:21,151 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:21,352 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:21,416 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:21,483 INFO 9040 [Leader:Watcher] socket connected, port: 60548
+2017-04-27 15:32:21,616 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:21,684 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:21,759 INFO 9040 [Leader:Watcher] socket connected, port: 60554
+2017-04-27 15:32:21,884 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:21,957 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:22,157 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:22,640 INFO 9040 [Leader:Watcher] socket connected, port: 60562
+2017-04-27 15:32:22,685 INFO 9040 [Leader:Watcher] socket connected, port: 60566
+2017-04-27 15:32:22,929 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:23,051 INFO 9040 [Leader:Watcher] socket connected, port: 60572
+2017-04-27 15:32:23,130 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:23,268 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:23,468 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:23,483 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:23,613 INFO 9040 [Leader:Watcher] socket connected, port: 60578
+2017-04-27 15:32:23,684 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:24,141 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:24,141 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:24,152 INFO 9040 [Leader:Watcher] socket connected, port: 60584
+2017-04-27 15:32:24,342 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:24,398 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:24,599 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:24,689 INFO 9040 [Leader:Watcher] socket connected, port: 60590
+2017-04-27 15:32:24,744 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:24,806 INFO 9040 [Leader:Watcher] socket connected, port: 60596
+2017-04-27 15:32:24,946 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:25,099 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:25,300 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:25,324 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:25,454 INFO 9040 [Leader:Watcher] socket connected, port: 60602
+2017-04-27 15:32:25,525 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:25,577 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:25,578 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:25,779 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:25,805 INFO 9040 [Leader:Watcher] socket connected, port: 60608
+2017-04-27 15:32:25,812 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:25,812 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:26,017 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:26,046 INFO 9040 [Leader:Watcher] socket connected, port: 60614
+2017-04-27 15:32:26,559 INFO 9040 [Leader:Watcher] socket connected, port: 60620
+2017-04-27 15:32:26,583 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:26,783 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:26,811 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:27,012 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:27,026 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:27,059 INFO 9040 [Leader:Watcher] socket connected, port: 60630
+2017-04-27 15:32:27,070 INFO 9040 [Leader:Watcher] socket connected, port: 60632
+2017-04-27 15:32:27,227 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:27,782 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:27,852 INFO 9040 [Leader:Watcher] socket connected, port: 60638
+2017-04-27 15:32:27,983 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:32:28,185 INFO 9040 [Leader:Watcher] socket connected, port: 60644
+2017-04-27 15:32:28,319 INFO 9040 [Leader:Watcher] socket connected, port: 60650
+2017-04-27 15:32:28,876 INFO 9040 [Leader:Watcher] socket connected, port: 60656
+2017-04-27 15:32:37,882 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:37,883 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:38,083 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:32:38,218 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:38,218 INFO 9040 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:32:38,418 WARN 9040 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 15:32:38,810 INFO 9040 [Leader:Watcher] socket connected, port: 60662
+2017-04-27 15:32:39,525 INFO 9040 [Leader:Watcher] socket connected, port: 60668
+2017-04-27 15:33:07,478 INFO 10231 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:33:07,505 INFO 10231 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:33:07,587 INFO 10231 [ClusterClient:Watcher] has seized port 37299, and serves as leader client.
+2017-04-27 15:33:07,592 INFO 10231 [egg-watcher:agent] watcher start success
+2017-04-27 15:33:08,438 INFO 10231 [Leader:Watcher] socket connected, port: 58458
+2017-04-27 15:36:42,415 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:42,424 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:42,628 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:42,642 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:42,649 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:42,853 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:43,155 INFO 10231 [Leader:Watcher] socket connected, port: 58486
+2017-04-27 15:36:43,332 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:43,332 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:43,533 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:43,626 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:43,636 INFO 10231 [Leader:Watcher] socket connected, port: 58492
+2017-04-27 15:36:43,827 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:43,906 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:44,106 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:44,143 INFO 10231 [Leader:Watcher] socket connected, port: 58498
+2017-04-27 15:36:44,146 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:44,147 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:44,347 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:44,391 INFO 10231 [Leader:Watcher] socket connected, port: 58504
+2017-04-27 15:36:44,506 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:44,698 INFO 10231 [Leader:Watcher] socket connected, port: 58510
+2017-04-27 15:36:44,707 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:44,780 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:44,894 INFO 10231 [Leader:Watcher] socket connected, port: 58516
+2017-04-27 15:36:44,981 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:45,037 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:45,038 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:45,239 INFO 10231 [Leader:Watcher] socket connected, port: 58522
+2017-04-27 15:36:45,240 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:45,520 INFO 10231 [Leader:Watcher] socket connected, port: 58528
+2017-04-27 15:36:45,759 INFO 10231 [Leader:Watcher] socket connected, port: 58534
+2017-04-27 15:36:45,907 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:45,908 INFO 10231 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:36:46,110 WARN 10231 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:36:46,656 INFO 10231 [Leader:Watcher] socket connected, port: 58540
+2017-04-27 15:36:57,488 INFO 10480 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:36:57,505 INFO 10480 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:36:57,553 INFO 10480 [ClusterClient:Watcher] has seized port 37915, and serves as leader client.
+2017-04-27 15:36:57,555 INFO 10480 [egg-watcher:agent] watcher start success
+2017-04-27 15:36:58,062 INFO 10480 [Leader:Watcher] socket connected, port: 54870
+2017-04-27 15:37:38,160 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:37:38,167 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:37:38,370 WARN 10480 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:37:39,442 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:37:39,645 WARN 10480 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:37:39,682 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:37:39,883 WARN 10480 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:38:06,333 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:38:06,337 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:38:06,538 WARN 10480 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:38:06,616 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:38:06,617 INFO 10480 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:38:06,818 WARN 10480 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:38:11,692 INFO 10633 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:38:11,708 INFO 10633 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:38:11,757 INFO 10633 [ClusterClient:Watcher] has seized port 38879, and serves as leader client.
+2017-04-27 15:38:11,759 INFO 10633 [egg-watcher:agent] watcher start success
+2017-04-27 15:38:25,642 INFO 10685 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:38:25,658 INFO 10685 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:38:25,704 INFO 10685 [ClusterClient:Watcher] has seized port 44781, and serves as leader client.
+2017-04-27 15:38:25,706 INFO 10685 [egg-watcher:agent] watcher start success
+2017-04-27 15:38:40,052 INFO 10749 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:38:40,068 INFO 10749 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:38:40,119 INFO 10749 [ClusterClient:Watcher] has seized port 36701, and serves as leader client.
+2017-04-27 15:38:40,121 INFO 10749 [egg-watcher:agent] watcher start success
+2017-04-27 15:39:15,589 INFO 10812 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 15:39:15,606 INFO 10812 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 15:39:15,656 INFO 10812 [ClusterClient:Watcher] has seized port 38599, and serves as leader client.
+2017-04-27 15:39:15,658 INFO 10812 [egg-watcher:agent] watcher start success
+2017-04-27 15:39:16,186 INFO 10812 [Leader:Watcher] socket connected, port: 43964
+2017-04-27 15:39:34,587 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:39:34,792 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:39:34,817 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:39:34,819 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:39:35,000 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:39:35,002 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:39:35,203 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:39:35,341 INFO 10812 [Leader:Watcher] socket connected, port: 43972
+2017-04-27 15:39:35,847 INFO 10812 [Leader:Watcher] socket connected, port: 43978
+2017-04-27 15:40:13,342 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:13,344 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:13,547 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:40:13,978 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:13,979 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:14,088 INFO 10812 [Leader:Watcher] socket connected, port: 43986
+2017-04-27 15:40:14,179 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:40:14,707 INFO 10812 [Leader:Watcher] socket connected, port: 43992
+2017-04-27 15:40:16,428 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:16,429 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:16,629 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:40:16,722 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 15:40:16,924 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 15:40:17,172 INFO 10812 [Leader:Watcher] socket connected, port: 43998
+2017-04-27 15:40:17,667 INFO 10812 [Leader:Watcher] socket connected, port: 44004
+2017-04-27 16:06:29,117 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,119 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,319 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:29,380 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,380 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,581 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:29,592 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,593 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,794 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:29,860 INFO 10812 [Leader:Watcher] socket connected, port: 44204
+2017-04-27 16:06:29,883 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:29,883 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:30,084 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:30,139 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:30,140 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:30,340 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:30,340 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:30,341 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:06:30,395 INFO 10812 [Leader:Watcher] socket connected, port: 44210
+2017-04-27 16:06:30,542 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:06:30,662 INFO 10812 [Leader:Watcher] socket connected, port: 44216
+2017-04-27 16:06:31,030 INFO 10812 [Leader:Watcher] socket connected, port: 44222
+2017-04-27 16:06:31,160 INFO 10812 [Leader:Watcher] socket connected, port: 44228
+2017-04-27 16:07:14,719 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:07:14,720 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:07:14,921 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:07:15,021 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:07:15,223 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:07:15,264 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:07:15,265 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:07:15,466 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:07:15,473 INFO 10812 [Leader:Watcher] socket connected, port: 44236
+2017-04-27 16:07:16,015 INFO 10812 [Leader:Watcher] socket connected, port: 44242
+2017-04-27 16:07:16,121 INFO 10812 [Leader:Watcher] socket connected, port: 44248
+2017-04-27 16:09:26,473 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:26,474 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:26,675 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:27,187 INFO 10812 [Leader:Watcher] socket connected, port: 44266
+2017-04-27 16:09:27,508 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:27,509 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:27,710 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:27,769 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:27,769 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:27,970 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:27,991 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:27,991 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:28,192 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:28,195 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:28,196 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:28,241 INFO 10812 [Leader:Watcher] socket connected, port: 44272
+2017-04-27 16:09:28,396 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:28,412 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:28,416 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:28,616 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:28,772 INFO 10812 [Leader:Watcher] socket connected, port: 44278
+2017-04-27 16:09:28,958 INFO 10812 [Leader:Watcher] socket connected, port: 44284
+2017-04-27 16:09:29,271 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,272 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,301 INFO 10812 [Leader:Watcher] socket connected, port: 44290
+2017-04-27 16:09:29,472 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:29,591 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,591 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,792 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:29,809 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,809 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:29,998 INFO 10812 [Leader:Watcher] socket connected, port: 44296
+2017-04-27 16:09:30,009 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:30,037 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:30,037 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:30,228 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:30,428 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:30,473 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:30,474 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:30,525 INFO 10812 [Leader:Watcher] socket connected, port: 44302
+2017-04-27 16:09:30,566 INFO 10812 [Leader:Watcher] socket connected, port: 44308
+2017-04-27 16:09:30,674 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:31,074 INFO 10812 [Leader:Watcher] socket connected, port: 44314
+2017-04-27 16:09:31,210 INFO 10812 [Leader:Watcher] socket connected, port: 44320
+2017-04-27 16:09:35,110 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,110 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,312 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:35,416 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,417 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,618 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:35,697 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,697 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:35,897 INFO 10812 [Leader:Watcher] socket connected, port: 44326
+2017-04-27 16:09:35,897 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:35,920 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:36,121 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:36,134 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:36,134 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:36,334 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:36,380 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:36,581 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:36,626 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:36,692 INFO 10812 [Leader:Watcher] socket connected, port: 44334
+2017-04-27 16:09:36,713 INFO 10812 [Leader:Watcher] socket connected, port: 44338
+2017-04-27 16:09:36,826 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:36,938 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:37,138 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:37,145 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:09:37,346 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:09:37,478 INFO 10812 [Leader:Watcher] socket connected, port: 44344
+2017-04-27 16:09:37,744 INFO 10812 [Leader:Watcher] socket connected, port: 44350
+2017-04-27 16:09:38,158 INFO 10812 [Leader:Watcher] socket connected, port: 44356
+2017-04-27 16:11:37,081 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:37,085 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:37,286 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:11:37,566 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:37,566 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:37,767 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:11:55,579 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:55,580 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:55,782 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:11:55,909 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:55,909 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:56,110 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:11:57,730 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:57,731 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:57,932 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:11:57,983 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:57,983 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:11:58,184 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:12:04,893 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:04,894 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:05,094 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:21,101 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,102 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,302 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:21,507 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,507 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,708 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:21,720 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,721 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:21,921 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:24,785 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:24,785 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:24,986 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:25,033 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:25,034 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:25,234 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:25,264 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:25,465 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:25,479 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:12:25,528 INFO 10812 [Leader:Watcher] socket connected, port: 44368
+2017-04-27 16:12:25,683 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:12:26,223 INFO 10812 [Leader:Watcher] socket connected, port: 44374
+2017-04-27 16:12:26,793 INFO 10812 [Leader:Watcher] socket connected, port: 44380
+2017-04-27 16:13:12,148 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:12,148 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:12,349 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:13:12,379 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:12,580 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:13:12,877 INFO 10812 [Leader:Watcher] socket connected, port: 44386
+2017-04-27 16:13:13,368 INFO 10812 [Leader:Watcher] socket connected, port: 44392
+2017-04-27 16:13:14,481 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:14,481 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:14,682 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:13:14,725 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:14,726 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:13:14,926 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:13:15,216 INFO 10812 [Leader:Watcher] socket connected, port: 44398
+2017-04-27 16:13:15,767 INFO 10812 [Leader:Watcher] socket connected, port: 44404
+2017-04-27 16:14:00,313 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:00,515 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:01,048 INFO 10812 [Leader:Watcher] socket connected, port: 44420
+2017-04-27 16:14:02,313 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:02,313 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:02,514 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:03,578 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:03,779 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:03,818 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:03,819 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:04,020 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:04,058 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:04,059 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:04,259 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:04,324 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:04,334 INFO 10812 [Leader:Watcher] socket connected, port: 44426
+2017-04-27 16:14:04,525 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:04,749 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:04,829 INFO 10812 [Leader:Watcher] socket connected, port: 44432
+2017-04-27 16:14:04,949 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:05,047 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:05,247 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:05,252 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:05,253 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:05,445 INFO 10812 [Leader:Watcher] socket connected, port: 44438
+2017-04-27 16:14:05,453 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js change
+2017-04-27 16:14:05,640 INFO 10812 [Leader:Watcher] socket connected, port: 44444
+2017-04-27 16:14:06,103 INFO 10812 [Leader:Watcher] socket connected, port: 44450
+2017-04-27 16:14:06,156 INFO 10812 [Leader:Watcher] socket connected, port: 44456
+2017-04-27 16:14:29,148 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:29,149 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:29,351 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:29,449 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:29,649 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:29,866 INFO 10812 [Leader:Watcher] socket connected, port: 44466
+2017-04-27 16:14:30,351 INFO 10812 [Leader:Watcher] socket connected, port: 44472
+2017-04-27 16:14:32,585 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:32,586 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:32,786 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:32,828 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:32,828 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:33,029 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:33,130 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:33,131 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:33,313 INFO 10812 [Leader:Watcher] socket connected, port: 44478
+2017-04-27 16:14:33,331 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:33,480 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:33,680 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:34,050 INFO 10812 [Leader:Watcher] socket connected, port: 44488
+2017-04-27 16:14:34,060 INFO 10812 [Leader:Watcher] socket connected, port: 44490
+2017-04-27 16:14:34,466 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:34,467 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:34,590 INFO 10812 [Leader:Watcher] socket connected, port: 44496
+2017-04-27 16:14:34,667 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:34,863 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:34,864 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:35,065 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:14:35,209 INFO 10812 [Leader:Watcher] socket connected, port: 44502
+2017-04-27 16:14:35,741 INFO 10812 [Leader:Watcher] socket connected, port: 44508
+2017-04-27 16:14:47,800 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:47,801 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,002 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:48,117 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,118 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,318 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:48,375 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,375 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,528 INFO 10812 [Leader:Watcher] socket connected, port: 44514
+2017-04-27 16:14:48,575 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:48,636 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,639 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:48,840 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:48,873 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:49,069 INFO 10812 [Leader:Watcher] socket connected, port: 44520
+2017-04-27 16:14:49,074 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:49,116 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:49,193 INFO 10812 [Leader:Watcher] socket connected, port: 44526
+2017-04-27 16:14:49,318 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:49,742 INFO 10812 [Leader:Watcher] socket connected, port: 44534
+2017-04-27 16:14:49,758 INFO 10812 [Leader:Watcher] socket connected, port: 44538
+2017-04-27 16:14:49,854 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:49,855 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:14:49,987 INFO 10812 [Leader:Watcher] socket connected, port: 44544
+2017-04-27 16:14:50,056 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:14:50,577 INFO 10812 [Leader:Watcher] socket connected, port: 44550
+2017-04-27 16:15:15,908 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:15,909 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:16,109 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:16,630 INFO 10812 [Leader:Watcher] socket connected, port: 44560
+2017-04-27 16:15:17,180 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,181 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,383 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:17,432 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,434 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,634 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:17,655 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,656 INFO 10812 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:17,856 WARN 10812 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:17,918 INFO 10812 [Leader:Watcher] socket connected, port: 44566
+2017-04-27 16:15:18,468 INFO 10812 [Leader:Watcher] socket connected, port: 44572
+2017-04-27 16:15:29,064 INFO 14346 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 16:15:29,080 INFO 14346 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 16:15:29,126 INFO 14346 [ClusterClient:Watcher] has seized port 40701, and serves as leader client.
+2017-04-27 16:15:29,128 INFO 14346 [egg-watcher:agent] watcher start success
+2017-04-27 16:15:29,636 INFO 14346 [Leader:Watcher] socket connected, port: 59724
+2017-04-27 16:15:39,260 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:39,467 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:39,548 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:39,552 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:39,754 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:39,800 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:39,801 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:15:40,002 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:15:40,050 INFO 14346 [Leader:Watcher] socket connected, port: 59730
+2017-04-27 16:15:40,538 INFO 14346 [Leader:Watcher] socket connected, port: 59736
+2017-04-27 16:17:00,357 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:00,561 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:17:01,118 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:01,319 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:17:01,392 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:01,392 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:01,593 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:17:02,441 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:02,443 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:02,644 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:17:13,581 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:13,783 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:13,956 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:13,957 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:14,157 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:14,337 INFO 14346 [Leader:Watcher] socket connected, port: 59756
+2017-04-27 16:17:14,340 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:14,341 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:14,542 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:14,831 INFO 14346 [Leader:Watcher] socket connected, port: 59762
+2017-04-27 16:17:14,963 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:15,164 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:15,350 INFO 14346 [Leader:Watcher] socket connected, port: 59768
+2017-04-27 16:17:15,695 INFO 14346 [Leader:Watcher] socket connected, port: 59774
+2017-04-27 16:17:28,155 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:28,158 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:28,359 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:28,878 INFO 14346 [Leader:Watcher] socket connected, port: 59780
+2017-04-27 16:17:47,766 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:47,767 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:47,969 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:48,100 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:48,301 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:48,396 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:48,396 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:17:48,516 INFO 14346 [Leader:Watcher] socket connected, port: 59786
+2017-04-27 16:17:48,597 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:17:49,071 INFO 14346 [Leader:Watcher] socket connected, port: 59792
+2017-04-27 16:17:49,175 INFO 14346 [Leader:Watcher] socket connected, port: 59798
+2017-04-27 16:18:32,208 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:18:32,410 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:18:32,507 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:18:32,508 INFO 14346 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:18:32,708 WARN 14346 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:18:32,962 INFO 14346 [Leader:Watcher] socket connected, port: 59810
+2017-04-27 16:18:33,503 INFO 14346 [Leader:Watcher] socket connected, port: 59816
+2017-04-27 16:18:43,923 INFO 14680 [egg:logger] init all loggers with options: {"dir":"/home/rumia/Code/in-class/doint-search/logs/doint-search","encoding":"utf8","env":"local","level":"DEBUG","consoleLevel":"INFO","outputJSON":false,"buffer":false,"appLogName":"doint-search-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"type":"agent"}
+2017-04-27 16:18:43,938 INFO 14680 [ClusterClient:Watcher] subscribe ["/home/rumia/Code/in-class/doint-search/app","/home/rumia/Code/in-class/doint-search/config","/home/rumia/Code/in-class/doint-search/mocks","/home/rumia/Code/in-class/doint-search/mocks_proxy"]
+2017-04-27 16:18:43,985 INFO 14680 [ClusterClient:Watcher] has seized port 45093, and serves as leader client.
+2017-04-27 16:18:43,987 INFO 14680 [egg-watcher:agent] watcher start success
+2017-04-27 16:18:44,494 INFO 14680 [Leader:Watcher] socket connected, port: 34080
+2017-04-27 16:23:28,910 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:29,114 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/user.js rename
+2017-04-27 16:23:32,751 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:32,753 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:32,955 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:23:33,326 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:33,328 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:33,529 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:23:33,920 INFO 14680 [Leader:Watcher] socket connected, port: 34096
+2017-04-27 16:23:34,515 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:34,517 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:34,717 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:23:34,854 INFO 14680 [Leader:Watcher] socket connected, port: 34102
+2017-04-27 16:23:35,859 INFO 14680 [Leader:Watcher] socket connected, port: 34110
+2017-04-27 16:23:42,033 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:42,034 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:42,235 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/home.js change
+2017-04-27 16:23:42,325 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:23:42,526 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/home.js change
+2017-04-27 16:23:43,377 INFO 14680 [Leader:Watcher] socket connected, port: 34116
+2017-04-27 16:23:44,547 INFO 14680 [Leader:Watcher] socket connected, port: 34122
+2017-04-27 16:24:10,080 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:24:10,081 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:24:10,283 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:24:11,085 INFO 14680 [Leader:Watcher] socket connected, port: 34130
+2017-04-27 16:25:31,581 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:31,584 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:31,785 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:25:32,233 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:32,233 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:32,435 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:25:32,550 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:32,550 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:32,618 INFO 14680 [Leader:Watcher] socket connected, port: 34140
+2017-04-27 16:25:32,751 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:25:33,300 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:33,501 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:25:33,529 INFO 14680 [Leader:Watcher] socket connected, port: 34146
+2017-04-27 16:25:33,556 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:33,559 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:25:33,668 INFO 14680 [Leader:Watcher] socket connected, port: 34152
+2017-04-27 16:25:33,759 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/middleware/lowercase.js change
+2017-04-27 16:25:34,483 INFO 14680 [Leader:Watcher] socket connected, port: 34158
+2017-04-27 16:25:34,699 INFO 14680 [Leader:Watcher] socket connected, port: 34164
+2017-04-27 16:26:05,184 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:05,386 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:05,522 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:05,723 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:05,804 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:06,005 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:06,106 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:06,174 INFO 14680 [Leader:Watcher] socket connected, port: 34170
+2017-04-27 16:26:06,308 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:07,022 INFO 14680 [Leader:Watcher] socket connected, port: 34176
+2017-04-27 16:26:07,202 INFO 14680 [Leader:Watcher] socket connected, port: 34182
+2017-04-27 16:26:07,647 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:07,648 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:07,850 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:07,906 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:08,107 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:08,218 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:08,419 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:08,454 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:08,454 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:08,654 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:08,688 INFO 14680 [Leader:Watcher] socket connected, port: 34188
+2017-04-27 16:26:09,128 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:09,329 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:09,447 INFO 14680 [Leader:Watcher] socket connected, port: 34194
+2017-04-27 16:26:09,465 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:09,471 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:09,671 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:09,689 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:09,889 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:09,925 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:10,125 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:10,263 INFO 14680 [Leader:Watcher] socket connected, port: 34200
+2017-04-27 16:26:10,610 INFO 14680 [Leader:Watcher] socket connected, port: 34206
+2017-04-27 16:26:11,106 INFO 14680 [Leader:Watcher] socket connected, port: 34212
+2017-04-27 16:26:16,760 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:16,761 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:16,961 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:18,017 INFO 14680 [Leader:Watcher] socket connected, port: 34218
+2017-04-27 16:26:57,629 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:57,631 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:57,831 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:57,937 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:57,938 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:58,139 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:58,165 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:58,166 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:58,367 INFO 14680 [Leader:Watcher] socket connected, port: 34266
+2017-04-27 16:26:58,368 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:58,456 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:58,456 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:26:58,657 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:26:59,097 INFO 14680 [Leader:Watcher] socket connected, port: 34272
+2017-04-27 16:26:59,206 INFO 14680 [Leader:Watcher] socket connected, port: 34278
+2017-04-27 16:26:59,692 INFO 14680 [Leader:Watcher] socket connected, port: 34284
+2017-04-27 16:27:03,942 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:03,943 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:04,143 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:27:04,199 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:04,399 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 16:27:04,740 INFO 14680 [Leader:Watcher] socket connected, port: 34292
+2017-04-27 16:27:05,361 INFO 14680 [Leader:Watcher] socket connected, port: 34298
+2017-04-27 16:27:56,845 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:56,846 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:57,047 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:27:57,104 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:57,104 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:27:57,305 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:27:57,571 INFO 14680 [Leader:Watcher] socket connected, port: 34306
+2017-04-27 16:27:58,063 INFO 14680 [Leader:Watcher] socket connected, port: 34312
+2017-04-27 16:28:04,118 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,119 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,319 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:04,499 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,500 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,700 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:04,718 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,720 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,878 INFO 14680 [Leader:Watcher] socket connected, port: 34318
+2017-04-27 16:28:04,921 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:04,942 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:04,943 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,144 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:05,191 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,192 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,392 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:05,459 INFO 14680 [Leader:Watcher] socket connected, port: 34324
+2017-04-27 16:28:05,529 INFO 14680 [Leader:Watcher] socket connected, port: 34330
+2017-04-27 16:28:05,559 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,560 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,760 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:05,795 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,796 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:05,996 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:06,046 INFO 14680 [Leader:Watcher] socket connected, port: 34336
+2017-04-27 16:28:06,127 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:06,328 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:06,417 INFO 14680 [Leader:Watcher] socket connected, port: 34342
+2017-04-27 16:28:06,714 INFO 14680 [Leader:Watcher] socket connected, port: 34348
+2017-04-27 16:28:06,963 INFO 14680 [Leader:Watcher] socket connected, port: 34354
+2017-04-27 16:28:30,410 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:30,410 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:30,611 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:30,657 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:30,657 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:30,858 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:30,865 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:30,865 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:31,066 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:31,150 INFO 14680 [Leader:Watcher] socket connected, port: 34362
+2017-04-27 16:28:31,637 INFO 14680 [Leader:Watcher] socket connected, port: 34368
+2017-04-27 16:28:31,901 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:31,902 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 16:28:32,104 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/search.js change
+2017-04-27 16:28:32,630 INFO 14680 [Leader:Watcher] socket connected, port: 34374
+2017-04-27 21:15:02,845 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:02,847 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:03,049 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:03,087 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:03,088 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:03,296 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:19,539 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:19,541 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:19,741 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:19,811 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:19,811 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:20,011 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:33,065 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:33,066 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:33,266 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:33,328 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:33,328 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:33,529 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:15:46,256 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:46,256 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:46,457 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:15:46,994 INFO 14680 [Leader:Watcher] socket connected, port: 34978
+2017-04-27 21:15:47,231 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:47,432 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:15:47,450 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:47,452 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:15:47,657 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:15:47,998 INFO 14680 [Leader:Watcher] socket connected, port: 34984
+2017-04-27 21:15:48,537 INFO 14680 [Leader:Watcher] socket connected, port: 34990
+2017-04-27 21:16:44,261 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:16:44,262 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:16:44,463 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/router.js change
+2017-04-27 21:16:45,005 INFO 14680 [Leader:Watcher] socket connected, port: 34996
+2017-04-27 21:18:14,584 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:14,585 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:14,785 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:18:15,316 INFO 14680 [Leader:Watcher] socket connected, port: 35004
+2017-04-27 21:18:15,716 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:15,917 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:18:16,434 INFO 14680 [Leader:Watcher] socket connected, port: 35010
+2017-04-27 21:18:40,893 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:40,894 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:41,096 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:18:41,116 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:41,118 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:18:41,319 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:18:41,635 INFO 14680 [Leader:Watcher] socket connected, port: 35016
+2017-04-27 21:18:42,120 INFO 14680 [Leader:Watcher] socket connected, port: 35022
+2017-04-27 21:19:54,929 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:19:54,930 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:19:55,131 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:19:55,680 INFO 14680 [Leader:Watcher] socket connected, port: 35028
+2017-04-27 21:20:06,850 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:20:06,851 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:20:07,053 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:20:07,577 INFO 14680 [Leader:Watcher] socket connected, port: 35034
+2017-04-27 21:25:14,313 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:14,514 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:14,622 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:14,822 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:15,044 INFO 14680 [Leader:Watcher] socket connected, port: 35060
+2017-04-27 21:25:15,526 INFO 14680 [Leader:Watcher] socket connected, port: 35066
+2017-04-27 21:25:27,000 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:27,000 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:27,201 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:27,309 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:27,509 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:27,735 INFO 14680 [Leader:Watcher] socket connected, port: 35072
+2017-04-27 21:25:28,101 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:28,101 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:28,220 INFO 14680 [Leader:Watcher] socket connected, port: 35078
+2017-04-27 21:25:28,302 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:28,825 INFO 14680 [Leader:Watcher] socket connected, port: 35084
+2017-04-27 21:25:49,666 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:49,667 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:49,867 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:49,900 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:49,903 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:50,104 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:50,171 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:25:50,371 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:25:50,394 INFO 14680 [Leader:Watcher] socket connected, port: 35094
+2017-04-27 21:25:50,886 INFO 14680 [Leader:Watcher] socket connected, port: 35100
+2017-04-27 21:26:25,955 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:25,955 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:26,156 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:26:26,239 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:26,240 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:26,441 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:26:26,449 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:26,450 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:26:26,650 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:26:26,695 INFO 14680 [Leader:Watcher] socket connected, port: 35106
+2017-04-27 21:26:27,212 INFO 14680 [Leader:Watcher] socket connected, port: 35112
+2017-04-27 21:27:43,218 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:27:43,219 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:27:43,419 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:29,993 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:30,194 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:30,234 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:30,234 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:30,435 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:30,722 INFO 14680 [Leader:Watcher] socket connected, port: 35130
+2017-04-27 21:31:31,214 INFO 14680 [Leader:Watcher] socket connected, port: 35136
+2017-04-27 21:31:34,409 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:34,409 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:34,610 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:34,631 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:34,632 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:34,832 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:35,166 INFO 14680 [Leader:Watcher] socket connected, port: 35142
+2017-04-27 21:31:35,393 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:35,594 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:35,656 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:35,759 INFO 14680 [Leader:Watcher] socket connected, port: 35148
+2017-04-27 21:31:35,857 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:35,954 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:36,155 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:36,284 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:36,341 INFO 14680 [Leader:Watcher] socket connected, port: 35154
+2017-04-27 21:31:36,484 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:36,531 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:31:36,685 INFO 14680 [Leader:Watcher] socket connected, port: 35160
+2017-04-27 21:31:36,733 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:31:37,224 INFO 14680 [Leader:Watcher] socket connected, port: 35166
+2017-04-27 21:31:37,568 INFO 14680 [Leader:Watcher] socket connected, port: 35172
+2017-04-27 21:31:37,623 INFO 14680 [Leader:Watcher] socket connected, port: 35178
+2017-04-27 21:36:01,062 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:36:01,263 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:36:01,266 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:36:01,267 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:36:01,468 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:36:01,785 INFO 14680 [Leader:Watcher] socket connected, port: 35184
+2017-04-27 21:36:02,268 INFO 14680 [Leader:Watcher] socket connected, port: 35190
+2017-04-27 21:38:10,297 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,298 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,498 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:10,561 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,562 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,762 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:10,769 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,769 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,969 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:10,982 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:10,982 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:11,027 INFO 14680 [Leader:Watcher] socket connected, port: 35198
+2017-04-27 21:38:11,183 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:11,195 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:11,396 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:11,412 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:38:11,539 INFO 14680 [Leader:Watcher] socket connected, port: 35204
+2017-04-27 21:38:11,613 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:38:11,794 INFO 14680 [Leader:Watcher] socket connected, port: 35210
+2017-04-27 21:38:12,141 INFO 14680 [Leader:Watcher] socket connected, port: 35216
+2017-04-27 21:38:12,175 INFO 14680 [Leader:Watcher] socket connected, port: 35222
+2017-04-27 21:41:06,971 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:06,972 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:07,172 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:07,193 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:07,195 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:07,395 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:07,531 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:07,532 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:07,701 INFO 14680 [Leader:Watcher] socket connected, port: 35248
+2017-04-27 21:41:07,732 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:07,845 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:08,047 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:08,252 INFO 14680 [Leader:Watcher] socket connected, port: 35254
+2017-04-27 21:41:08,289 INFO 14680 [Leader:Watcher] socket connected, port: 35260
+2017-04-27 21:41:08,565 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:08,566 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:08,760 INFO 14680 [Leader:Watcher] socket connected, port: 35266
+2017-04-27 21:41:08,767 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:08,814 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:08,815 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:09,016 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:09,273 INFO 14680 [Leader:Watcher] socket connected, port: 35272
+2017-04-27 21:41:09,761 INFO 14680 [Leader:Watcher] socket connected, port: 35278
+2017-04-27 21:41:15,981 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:15,981 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:16,182 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:16,228 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:16,429 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:16,684 INFO 14680 [Leader:Watcher] socket connected, port: 35284
+2017-04-27 21:41:17,186 INFO 14680 [Leader:Watcher] socket connected, port: 35290
+2017-04-27 21:41:18,850 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:18,851 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:19,054 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:19,160 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:19,161 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:41:19,361 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:41:19,585 INFO 14680 [Leader:Watcher] socket connected, port: 35296
+2017-04-27 21:41:20,079 INFO 14680 [Leader:Watcher] socket connected, port: 35302
+2017-04-27 21:42:20,839 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:20,840 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:21,040 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:21,078 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:21,279 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:21,588 INFO 14680 [Leader:Watcher] socket connected, port: 35312
+2017-04-27 21:42:22,080 INFO 14680 [Leader:Watcher] socket connected, port: 35318
+2017-04-27 21:42:26,157 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,158 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,358 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:26,421 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,422 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,623 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:26,648 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,649 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,849 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:26,904 INFO 14680 [Leader:Watcher] socket connected, port: 35324
+2017-04-27 21:42:26,908 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:26,908 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:27,110 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:27,652 INFO 14680 [Leader:Watcher] socket connected, port: 35330
+2017-04-27 21:42:27,735 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:27,917 INFO 14680 [Leader:Watcher] socket connected, port: 35336
+2017-04-27 21:42:27,935 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:27,971 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:28,172 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:28,564 INFO 14680 [Leader:Watcher] socket connected, port: 35342
+2017-04-27 21:42:29,070 INFO 14680 [Leader:Watcher] socket connected, port: 35348
+2017-04-27 21:42:38,217 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:38,218 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:38,419 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:38,497 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:38,698 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:38,940 INFO 14680 [Leader:Watcher] socket connected, port: 35354
+2017-04-27 21:42:39,238 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:39,239 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:39,440 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:39,461 INFO 14680 [Leader:Watcher] socket connected, port: 35360
+2017-04-27 21:42:39,965 INFO 14680 [Leader:Watcher] socket connected, port: 35366
+2017-04-27 21:42:51,307 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:51,308 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:42:51,509 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:42:52,051 INFO 14680 [Leader:Watcher] socket connected, port: 35372
+2017-04-27 21:45:09,140 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:45:09,341 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:45:09,864 INFO 14680 [Leader:Watcher] socket connected, port: 35382
+2017-04-27 21:45:10,129 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:45:10,130 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:45:10,330 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:45:10,346 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:45:10,348 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:45:10,548 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:45:10,857 INFO 14680 [Leader:Watcher] socket connected, port: 35388
+2017-04-27 21:45:11,349 INFO 14680 [Leader:Watcher] socket connected, port: 35394
+2017-04-27 21:46:01,816 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:01,816 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:02,017 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:02,065 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:02,066 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:02,266 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:02,268 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:02,269 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:02,470 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:02,552 INFO 14680 [Leader:Watcher] socket connected, port: 35400
+2017-04-27 21:46:03,047 INFO 14680 [Leader:Watcher] socket connected, port: 35406
+2017-04-27 21:46:08,207 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:08,207 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:08,408 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:08,481 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:08,482 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:08,682 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:08,706 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:08,907 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:09,039 INFO 14680 [Leader:Watcher] socket connected, port: 35412
+2017-04-27 21:46:09,627 INFO 14680 [Leader:Watcher] socket connected, port: 35418
+2017-04-27 21:46:10,336 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:10,337 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:10,537 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:10,644 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:10,645 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:10,845 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:46:11,088 INFO 14680 [Leader:Watcher] socket connected, port: 35424
+2017-04-27 21:46:11,581 INFO 14680 [Leader:Watcher] socket connected, port: 35430
+2017-04-27 21:46:44,570 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:44,571 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:44,771 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:46:44,824 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:44,825 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:46:45,025 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:46:45,306 INFO 14680 [Leader:Watcher] socket connected, port: 35436
+2017-04-27 21:46:45,793 INFO 14680 [Leader:Watcher] socket connected, port: 35442
+2017-04-27 21:47:35,193 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,194 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,396 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:47:35,459 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,459 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,659 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:47:35,668 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,868 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:47:35,891 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,891 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:47:35,929 INFO 14680 [Leader:Watcher] socket connected, port: 35448
+2017-04-27 21:47:36,091 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 21:47:36,458 INFO 14680 [Leader:Watcher] socket connected, port: 35454
+2017-04-27 21:47:36,646 INFO 14680 [Leader:Watcher] socket connected, port: 35460
+2017-04-27 21:48:21,393 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:48:21,594 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:48:21,643 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:48:21,643 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 21:48:21,844 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 21:48:22,151 INFO 14680 [Leader:Watcher] socket connected, port: 35472
+2017-04-27 21:48:22,648 INFO 14680 [Leader:Watcher] socket connected, port: 35478
+2017-04-27 22:06:42,853 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:43,055 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:43,144 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:43,144 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:43,345 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:43,606 INFO 14680 [Leader:Watcher] socket connected, port: 36464
+2017-04-27 22:06:44,110 INFO 14680 [Leader:Watcher] socket connected, port: 36470
+2017-04-27 22:06:45,452 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:45,452 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:45,654 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:45,704 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:45,704 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:45,897 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:45,897 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:46,098 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:46,129 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:46,183 INFO 14680 [Leader:Watcher] socket connected, port: 36492
+2017-04-27 22:06:46,329 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:46,697 INFO 14680 [Leader:Watcher] socket connected, port: 36506
+2017-04-27 22:06:46,884 INFO 14680 [Leader:Watcher] socket connected, port: 36512
+2017-04-27 22:06:50,632 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:50,632 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:50,833 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:50,915 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:06:51,116 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:06:51,383 INFO 14680 [Leader:Watcher] socket connected, port: 36562
+2017-04-27 22:06:52,016 INFO 14680 [Leader:Watcher] socket connected, port: 36568
+2017-04-27 22:11:30,137 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:30,337 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:30,441 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:30,642 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:30,681 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:30,682 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:30,872 INFO 14680 [Leader:Watcher] socket connected, port: 39310
+2017-04-27 22:11:30,882 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:30,910 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:30,910 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,111 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:31,117 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,117 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,318 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:31,340 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,340 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,428 INFO 14680 [Leader:Watcher] socket connected, port: 39318
+2017-04-27 22:11:31,441 INFO 14680 [Leader:Watcher] socket connected, port: 39322
+2017-04-27 22:11:31,541 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:31,578 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,761 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,761 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:31,962 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:31,982 INFO 14680 [Leader:Watcher] socket connected, port: 39336
+2017-04-27 22:11:32,111 INFO 14680 [Leader:Watcher] socket connected, port: 39342
+2017-04-27 22:11:32,506 INFO 14680 [Leader:Watcher] socket connected, port: 39348
+2017-04-27 22:11:32,621 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:32,622 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:32,823 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:32,858 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:32,858 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:11:33,058 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:11:33,378 INFO 14680 [Leader:Watcher] socket connected, port: 39362
+2017-04-27 22:11:33,879 INFO 14680 [Leader:Watcher] socket connected, port: 39376
+2017-04-27 22:12:01,106 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:12:01,107 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:12:01,307 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:12:01,899 INFO 14680 [Leader:Watcher] socket connected, port: 39604
+2017-04-27 22:13:04,124 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:04,126 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:04,326 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:13:04,863 INFO 14680 [Leader:Watcher] socket connected, port: 40152
+2017-04-27 22:13:05,561 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:05,564 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:05,764 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:13:05,795 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:05,797 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:05,998 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:13:06,329 INFO 14680 [Leader:Watcher] socket connected, port: 40174
+2017-04-27 22:13:06,839 INFO 14680 [Leader:Watcher] socket connected, port: 40180
+2017-04-27 22:13:24,598 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:24,599 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:13:24,799 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:13:25,368 INFO 14680 [Leader:Watcher] socket connected, port: 40342
+2017-04-27 22:15:23,362 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:15:23,564 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:15:23,683 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:15:23,684 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:15:23,884 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/controller/pfam.js change
+2017-04-27 22:15:24,097 INFO 14680 [Leader:Watcher] socket connected, port: 41300
+2017-04-27 22:15:24,606 INFO 14680 [Leader:Watcher] socket connected, port: 41314
+2017-04-27 22:16:26,695 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:26,696 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:26,897 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:26,977 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:26,977 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,178 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:27,225 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,225 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,426 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:27,433 INFO 14680 [Leader:Watcher] socket connected, port: 41820
+2017-04-27 22:16:27,506 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,507 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,708 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:27,717 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,717 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,918 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:27,926 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:27,927 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,002 INFO 14680 [Leader:Watcher] socket connected, port: 41834
+2017-04-27 22:16:28,115 INFO 14680 [Leader:Watcher] socket connected, port: 41840
+2017-04-27 22:16:28,127 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:28,173 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,174 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,374 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:28,398 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,574 INFO 14680 [Leader:Watcher] socket connected, port: 41854
+2017-04-27 22:16:28,598 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:28,639 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,639 INFO 14680 [Leader:Watcher] push subscribe data to cluster client#Watcher_mock_conn_1
+2017-04-27 22:16:28,713 INFO 14680 [Leader:Watcher] socket connected, port: 41860
+2017-04-27 22:16:28,840 WARN 14680 [agent:development] reload worker because /home/rumia/Code/in-class/doint-search/app/service/pfam.js change
+2017-04-27 22:16:29,291 INFO 14680 [Leader:Watcher] socket connected, port: 41866
+2017-04-27 22:16:29,321 INFO 14680 [Leader:Watcher] socket connected, port: 41872
+2017-04-27 22:16:29,505 INFO 14680 [Leader:Watcher] socket connected, port: 41886
+2017-04-28 00:00:00,004 INFO 14680 [egg-schedule] send message: sendRandom egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2017-04-28 00:00:00,016 INFO 14680 [egg-schedule] send message: sendRandom egg-schedule:/home/rumia/Code/in-class/doint-search/node_modules/egg-logrotator/app/schedule/clean_log.js
