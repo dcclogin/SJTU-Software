@@ -15,7 +15,7 @@ Meanwhile, after our project iMAP in 2016, we have surveyed and noticed that the
 
 Our project BAT, is improved on the base of 2015’s project—BASE, but we have surpassed it. First of all, BAT can not only score on ‘parts’ level, but more challenging, it can score on the ‘device’ level.
 
-Moreover, a brand new section of BAT, is the Q&A. It refers to Quora, but only in synthetic biology area. Users can put forward and answer questions about biobricks, synthetic biology and even works in their labs. Besides, they can also search questions by keywords or browse them by categories or tags. 
+Moreover, a brand new section of BAT, is the Q&A. It refers to Quora, but only in synthetic biology area. Users can put forward and answer questions about biobricks, synthetic biology and even works in their labs. Besides, they can also search questions by keywords or browse them by categories or tags.
 
 ## Overview
 
@@ -24,6 +24,17 @@ Our software named BAT is a search engine for biobricks. It integrates functions
 ### Q/A Community
 
 <img src="http://2017.igem.org/wiki/images/c/cf/SJTU-Software_QA_001.jpg"></img>
+
+Our community part is easy to use:
+
+- search questions and answers by keyword and tag
+- ask questions about biobrick in 3 sections
+- comment at any question you like (Markdown)
+- show most frequently answered and starred questions
+- recommend similar questions you have searched (in development)
+- excitation mechanism for veteran answerers (in development)
+- ...
+
 
 ### Tech stacks
 
